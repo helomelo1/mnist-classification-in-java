@@ -1,8 +1,8 @@
 class main{
-    public static void main(String[] arg) {
+    static int age; // default value is 0
+    public static void main(String[] args) {
         // System.out.println("Hello, World!");
-
-        int age = 5;
         System.out.println("My age is " + age + ".");
+
     }
 }
