@@ -1,1 +1,1 @@
-# revising-java-after-grade-10
+# MNIST Classification in Java
